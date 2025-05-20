@@ -1,1 +1,2 @@
 third file
+next line added
